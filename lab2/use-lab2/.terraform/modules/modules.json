@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"docker_nginx","Source":"git::https://github.com/LukuLaMule/TP-Terraform.git","Dir":".terraform/modules/docker_nginx"}]}
