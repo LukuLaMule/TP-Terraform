@@ -1,5 +1,5 @@
 module "docker_nginx" {
-  source = "git::https://github.com/LukuLaMule/TP-Terraform.git//module"
+  source = "git::https://github.com/LukuLaMule/TP-Terraform.git//lab2/module"
 
   # Override defaults as needed:
   image                 = "nginx:latest"
